@@ -1,7 +1,7 @@
 # Learn Redux
 
 A simple React + Redux implementation of instagram. I used this to learn the principles and methodologies of a Redux + React ecosystem.
-
+![Reduxtagram!!](rdxtgrm.png)
 
 ## Running
 
